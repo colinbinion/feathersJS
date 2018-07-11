@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/colinbinion/feathersJS#readme",
   "dependencies": {
+    "@feathersjs/errors": "^3.3.0",
     "@feathersjs/feathers": "^3.1.7"
   }
 }
